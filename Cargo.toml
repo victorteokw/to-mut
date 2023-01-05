@@ -1,0 +1,9 @@
+[package]
+name = "to-mut"
+version = "0.1.0"
+edition = "2021"
+description = "Convert immutable reference to mutable reference."
+license = "MIT"
+
+[dependencies]
+to_mut_proc_macro = { path = "../to-mut-proc-macro" }
