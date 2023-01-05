@@ -6,4 +6,4 @@ description = "Convert immutable reference to mutable reference."
 license = "MIT"
 
 [dependencies]
-to_mut_proc_macro = { path = "../to-mut-proc-macro" }
+to-mut-proc-macro = { version = "0.1.0" }
